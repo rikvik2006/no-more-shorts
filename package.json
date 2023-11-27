@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Remove shorts from youtube. Using Typescript and Rollup",
   "license": "MIT",
-  "author": "Ross Moody<@_rossmoody>",
+  "author": "rikvik2006<@rikvik2006>",
   "keywords": [
     "chrome-extension",
     "web-extension",
